@@ -88,9 +88,9 @@ function display_help {
 	echo "Please provide full path as argument to path";
 	echo "Usage Example"
 	echo "To search case insentitive, append grep flag -i"
-	echo " bash looto.sh $(pwd) str -i"
+	echo " bash mn.sh $(pwd) str -i"
 	echo "To search resurively with case insentivie"
-	echo " bash looto.sh -r /usr/bin str -i"
+	echo " bash mn.sh -r /usr/bin str -i"
 }
 
 #########################################################################
